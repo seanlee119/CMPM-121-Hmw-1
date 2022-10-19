@@ -6,16 +6,16 @@ List of objects:\
   Floor Lamp - Unity Assest Store\
   Wall Lamp - Unity Assest Store\
   Painting - Unity Assest Store\
-  Router - https://unityassets4free.com/\
-  Webcam - https://unityassets4free.com/\
+  Router - https://unityassets4free.com/ \
+  Webcam - https://unityassets4free.com/ \
   Office chair - Unity Assest Store\
-  Desk 1 - https://unityassets4free.com/\
-  Desk 2 -https://unityassets4free.com/\
+  Desk 1 - https://unityassets4free.com/ \
+  Desk 2 -https://unityassets4free.com/ \
   Bed - Unity Assest Store\
-  Mouse - https://unityassets4free.com/\
-  Keyboard - https://unityassets4free.com/\
-  Monitor - https://unityassets4free.com/\
-  Computer - https://unityassets4free.com/\
-  Speaker - https://unityassets4free.com/\
+  Mouse - https://unityassets4free.com/ \
+  Keyboard - https://unityassets4free.com/ \
+  Monitor - https://unityassets4free.com/ \
+  Computer - https://unityassets4free.com/ \
+  Speaker - https://unityassets4free.com/ \
   
   
