@@ -1,4 +1,4 @@
-The scene that I chose to make is a basic room of what I would live in. I included the basic room furniture like a lamp, bed, desk, chair, etc. On my desk I wanted a streaming setup so I have 3 monitors and 2 PCs to make it look fancier and more high tech. The stream setups that I see twitch streamers use and setup tours I see on youtube inspired this basic room setup. Another inspiration for the simplicity of it was my room back at home. The main character in the scene is the capsule as it represents a person in the room. /n
+The scene that I chose to make is a basic room of what I would live in. I included the basic room furniture like a lamp, bed, desk, chair, etc. On my desk I wanted a streaming setup so I have 3 monitors and 2 PCs to make it look fancier and more high tech. The stream setups that I see twitch streamers use and setup tours I see on youtube inspired this basic room setup. Another inspiration for the simplicity of it was my room back at home. The main character in the scene is the capsule as it represents a person in the room. \n
 List of objects:
   Cube (walls) - Unity 3d Object
   Plane (floor) - Unity 3d Object
