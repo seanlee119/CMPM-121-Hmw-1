@@ -16,6 +16,6 @@ List of objects:\
   Keyboard - https://unityassets4free.com/ \
   Monitor - https://unityassets4free.com/ \
   Computer - https://unityassets4free.com/ \
-  Speaker - https://unityassets4free.com/ \
+  Speaker - https://unityassets4free.com/ 
   
   
